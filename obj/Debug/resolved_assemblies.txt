@@ -1,0 +1,9 @@
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\AndroidLab3.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\Mono.Android.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\mscorlib.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\System.Core.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\System.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\System.Xml.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\assemblies\System.ServiceModel.Internals.dll

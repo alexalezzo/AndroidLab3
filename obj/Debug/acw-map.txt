@@ -1,0 +1,4 @@
+AndroidLab3.MainActivity, AndroidLab3;md581228b51e4a239c9b41b68b63e8557ac.MainActivity
+AndroidLab3.MainActivity, AndroidLab3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md581228b51e4a239c9b41b68b63e8557ac.MainActivity
+AndroidLab3.MainActivity;md581228b51e4a239c9b41b68b63e8557ac.MainActivity
+androidlab3.MainActivity;md581228b51e4a239c9b41b68b63e8557ac.MainActivity

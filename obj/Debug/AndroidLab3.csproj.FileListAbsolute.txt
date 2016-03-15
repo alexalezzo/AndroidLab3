@@ -1,0 +1,16 @@
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\bin\Debug\AndroidLab3.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\bin\Debug\AndroidLab3.pdb
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\bin\Debug\AndroidLab3.AndroidLab3.apk
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\bin\Debug\AndroidLab3.AndroidLab3-Signed.apk
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\res\drawable\monoandroidsplash.png
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\res\values\styles.xml
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\AndroidLab3.dll
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\AndroidLab3.pdb
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\android\bin\AndroidLab3.AndroidLab3.apk
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\res\layout\main.xml
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\res\values\strings.xml
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\res\drawable\icon.png
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\R.cs.flag
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\uploadflags.txt
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\obj\Debug\AndroidLab3.dll.mdb
+D:\All-Files\Business\Android\AndroidLab3\AndroidLab3\bin\Debug\AndroidLab3.dll.mdb
